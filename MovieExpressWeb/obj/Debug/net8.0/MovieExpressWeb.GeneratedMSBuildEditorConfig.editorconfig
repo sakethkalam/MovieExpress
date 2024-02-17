@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = \\Mac\Home\Documents\MovieExpressWeb\MovieExpressWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[//Mac/Home/Documents/MovieExpressWeb/MovieExpressWeb/Views/Category/AddMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkTW92aWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[//Mac/Home/Documents/MovieExpressWeb/MovieExpressWeb/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [//Mac/Home/Documents/MovieExpressWeb/MovieExpressWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

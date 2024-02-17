@@ -134,3 +134,5 @@
 \\Mac\Home\Documents\MovieExpressWeb\MovieExpressWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 \\Mac\Home\Documents\MovieExpressWeb\MovieExpressWeb\obj\Debug\net8.0\MovieExpressWeb.csproj.AssemblyReference.cache
 \\Mac\Home\Documents\MovieExpressWeb\MovieExpressWeb\obj\Debug\net8.0\MovieExpressWeb.csproj.CopyComplete
+\\Mac\Home\Documents\MovieExpressWeb\MovieExpressWeb\obj\Debug\net8.0\MovieExpressWeb.sourcelink.json
+\\Mac\Home\Documents\MovieExpressWeb\MovieExpressWeb\bin\Debug\net8.0\Serilog.dll
