@@ -34,7 +34,6 @@ namespace MovieExpressWeb.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Genere")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("MovieName")
@@ -44,6 +43,29 @@ namespace MovieExpressWeb.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "Love Story",
+                            Genere = "Romance",
+                            MovieName = "Jalsa"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "Friends story",
+                            Genere = "Action",
+                            MovieName = "Salar"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "Gods Story",
+                            Genere = "Thriller",
+                            MovieName = "Karthikeya"
+                        });
                 });
 #pragma warning restore 612, 618
         }
