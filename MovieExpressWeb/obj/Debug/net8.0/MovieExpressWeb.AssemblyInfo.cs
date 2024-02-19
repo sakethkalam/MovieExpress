@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieExpressWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3ab45c403ea047ec434e4fcae34cb2d3f715fab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee11f5d898192ed67b39f207c83070d3688bf4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieExpressWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieExpressWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
